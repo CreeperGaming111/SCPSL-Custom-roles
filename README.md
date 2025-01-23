@@ -5,7 +5,7 @@ SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/
 🎮Server name if you're interested: SCP:SL Creeper's Laboratories
 😀Roles:
 
-1.Bomber C.I
+1. Bomber C.I
 2. Experimental weapon Carrier
 3. Guard Captain
 4. Janitor
