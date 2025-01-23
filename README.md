@@ -1,8 +1,12 @@
 # SCPSL-Custom-roles
 SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles
+
 👀You have to add them in the custom roles folder.
+
 💻Those roles are used on my SCPSL server.
+
 🎮Server name if you're interested: SCP:SL Creeper's Laboratories
+
 😀Roles:
 
 1. Bomber C.I
