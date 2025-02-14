@@ -22,6 +22,6 @@ SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/
 11. The kid
 12. Zone Manager
 
-💀I will keep udating them!
+💀I will keep updating them!
 
 If you have questions please contact: distroy__ on Discord
