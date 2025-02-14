@@ -17,7 +17,7 @@ SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/
 6. Juggernaut MTF
 7. Major Scientist (Bugged spawn)
 8. SCP Object Stealer C.I
-9. SCP-3114 (I suggest deleting him because he's bugged)
+9. Guard Captain
 10. Sniper MTF
 11. The kid
 12. Zone Manager
