@@ -18,7 +18,7 @@ SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/
 7. Major Scientist (Bugged spawn)
 8. SCP Object Stealer C.I
 9. Guard Captain
-10. Sniper MTF
+10. Sniper MTF (not realesed)
 11. The kid
 12. Zone Manager
 
