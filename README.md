@@ -1,4 +1,4 @@
-# SCPSL-Custom-roles
+# SCPSL-Custom-roles (discontinued)
 SCP:SL Custom Roles for the plugin https://github.com/UncomplicatedCustomServer/UncomplicatedCustomRoles
 
 👀You have to add them in the custom roles folder.
